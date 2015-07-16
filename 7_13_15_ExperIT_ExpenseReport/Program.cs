@@ -11,7 +11,7 @@ namespace _7_13_15_ExperIT_ExpenseReport
 class Program
     {
 
-        //enum jobLevel { Employee, FirstLevelManager, SecondLevelManager, Director, CEO };
+        //A program that determines if an expense is approved or disapproved based on who sumbits it and certain criteria. 
 
         static void Main(string[] args)
         {
